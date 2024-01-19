@@ -7,3 +7,4 @@
 4. Для запуска алгоритма, основанного на поиске по дерему Монте Карло: запустить файл minimax.py
 5. Для запуска алгоритма, основанного на глубоком Q обучение: запустить файл DQN.py
 
+Ссылка на презентацию: https://docs.google.com/presentation/d/1XvvELXFGK9MmdmJ-EFUf5VR-L-tEW2PzXBkZ1eIxzYk/edit#slide=id.g1c0d6070d72_0_39
